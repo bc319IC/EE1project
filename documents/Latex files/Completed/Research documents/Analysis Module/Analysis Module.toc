@@ -1,0 +1,77 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Introduction}{2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Modified Nodal Analysis}{3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Node Voltage Method}{3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Characteristics of the MNA matrix}{4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}Notations}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.1}Naming notations}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.2}Matrix notation}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}General Algorithm design for MNA}{6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}$A$ matrix}{6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.1}$A_a$ matrix}{6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.2}$A_b$ matrix}{7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.3}$A_c$ matrix}{7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.4}$A_d$ matrix}{7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}$x$ matrix}{8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.1}$x_a$ matrix}{8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.2}$x_b$ matrix}{8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}$b$ matrix}{8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.1}$b_a$ matrix}{8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.2}$b_b$ matrix}{8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Support for $C$ and $L$ elements}{9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Theory behind capacitor and inductor}{9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Changes required}{9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Dependent sources}{10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Voltage Controlled Voltage Source (VCVS)}{10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Current Controlled Voltage Source (CCVS)}{10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Voltage Controlled Current Source (VCCS)}{10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Current Controlled Current Source (CCCS)}{10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Op amp support}{11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}The use of Eigen library}{12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}Implementation}{13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.1}Analysis}{13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {8.1.1}FormMatrix}{13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {8.1.2}SemanticCheck}{14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9}Version history}{15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1}Version 1.0}{15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {9.1.1}List of functions}{15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {9.1.2}Still to do for v2.0}{15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10}Miscellaneous}{16}%
